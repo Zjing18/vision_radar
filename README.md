@@ -1,8 +1,5 @@
 <div align="center">
 
-# T-DT 2025 Radar
-
-> 2025年东北大学T-DT实验室 RoboMaster超级对抗赛 雷达代码
 
 <a href="./LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-yellow"></a>
 <a href="https://neutdt.cn"><img alt="Home Page" src="https://img.shields.io/badge/Home%20Page-T--DT-green"></a>
@@ -45,10 +42,9 @@
 
 本项目通过激光雷达和单目相机的目标检测，进行传感器后融合，实现了传感器之间的完全解耦合，避免了联合标定带来的误差，同时开发难度不随传感器数量增加而增加。  
 
-东北大学RM2025雷达技术报告 [https://bbs.robomaster.com/article/803954](https://bbs.robomaster.com/article/803954)
 
 
-**如果你没有激光雷达，也可以直接使用本项目的单目相机方案 (在RM2023的0.6m误差规则下取得了最高91%的准确率，荣获2023年雷达MVP)**
+
 
 <p align="center">
   <img src=".github/icp.png" alt="配准效果"  width="60%">
@@ -57,7 +53,7 @@
 </p>
 
 
-**本项目连续入选2024,2025两届全明星赛，并在2025全明星赛中获得局均伤害第一，局均高亮时长第二的好成绩**
+
 
 
 <p align="center">
@@ -209,8 +205,5 @@ Launch文件已集成foxglove-bridge,启动后直接打开foxglove-studio即可�
 - 多相机/雷达从当前逻辑(结构)上可以实现，但是并没有进行对应ros2接口的适配
 - 改进聚类与匹配算法
 - 使用ros参数，实时调参
-# 联系方式
-Email: zhujunheng2005@gmail.com  
-QQ: 820288431  
 
 </div>
