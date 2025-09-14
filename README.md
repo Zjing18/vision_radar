@@ -1,23 +1,4 @@
-<div align="center">
 
-
-<a href="./LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-yellow"></a>
-<a href="https://neutdt.cn"><img alt="Home Page" src="https://img.shields.io/badge/Home%20Page-T--DT-green"></a>
-
-<p align="center">
-  <img src=".github/NEU.webp" width="300"/>
-  <img src=".github/T-DT.jpg" width="300"/>
-</p>
-
-</div>
-
-<br>
-
---------
-
-<br>
-
-<div align="left">
 
 # 版本和发布记录
 
